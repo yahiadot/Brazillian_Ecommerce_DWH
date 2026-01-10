@@ -9,5 +9,5 @@ Centralize Brazilian retail data into a single source of truth for advanced sale
 ###### *- Scope:* Focus on history and New data ######
 ###### *- Documentation:* Provide Clear documentation for stakeholders and analytics teams to be able to understand and maintain. ######
 
-=========================================================================================================================================
+-------------------------------------------------------------------------------------------------------------------------------------
 
