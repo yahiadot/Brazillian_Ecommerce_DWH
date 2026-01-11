@@ -13,6 +13,7 @@ Centralize Brazilian retail data into a single source of truth for advanced sale
 # BI: Reporting & Analysis
 # Ojective:
 ###### Develop and implement Reports for analysis and detailed report.
-###### -Sales Overview. 
+###### - Sales Overview. 
 ###### - Customer Behaviour. 
 ###### - Product Performance. 
+
